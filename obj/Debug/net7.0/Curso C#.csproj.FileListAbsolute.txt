@@ -1,0 +1,15 @@
+C:\Users\el221\OneDrive\Área de Trabalho\Curso C#\bin\Debug\net7.0\Curso C#.exe
+C:\Users\el221\OneDrive\Área de Trabalho\Curso C#\bin\Debug\net7.0\Curso C#.deps.json
+C:\Users\el221\OneDrive\Área de Trabalho\Curso C#\bin\Debug\net7.0\Curso C#.runtimeconfig.json
+C:\Users\el221\OneDrive\Área de Trabalho\Curso C#\bin\Debug\net7.0\Curso C#.dll
+C:\Users\el221\OneDrive\Área de Trabalho\Curso C#\bin\Debug\net7.0\Curso C#.pdb
+C:\Users\el221\OneDrive\Área de Trabalho\Curso C#\obj\Debug\net7.0\Curso C#.csproj.AssemblyReference.cache
+C:\Users\el221\OneDrive\Área de Trabalho\Curso C#\obj\Debug\net7.0\Curso C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\el221\OneDrive\Área de Trabalho\Curso C#\obj\Debug\net7.0\Curso C#.AssemblyInfoInputs.cache
+C:\Users\el221\OneDrive\Área de Trabalho\Curso C#\obj\Debug\net7.0\Curso C#.AssemblyInfo.cs
+C:\Users\el221\OneDrive\Área de Trabalho\Curso C#\obj\Debug\net7.0\Curso C#.csproj.CoreCompileInputs.cache
+C:\Users\el221\OneDrive\Área de Trabalho\Curso C#\obj\Debug\net7.0\Curso C#.dll
+C:\Users\el221\OneDrive\Área de Trabalho\Curso C#\obj\Debug\net7.0\refint\Curso C#.dll
+C:\Users\el221\OneDrive\Área de Trabalho\Curso C#\obj\Debug\net7.0\Curso C#.pdb
+C:\Users\el221\OneDrive\Área de Trabalho\Curso C#\obj\Debug\net7.0\Curso C#.genruntimeconfig.cache
+C:\Users\el221\OneDrive\Área de Trabalho\Curso C#\obj\Debug\net7.0\ref\Curso C#.dll
